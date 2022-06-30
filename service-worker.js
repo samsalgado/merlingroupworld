@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/merlingroupworld/precache-manifest.f2b2716e9fc9de9777c3dc8e6b044d95.js"
+  "/merlingroupworld/precache-manifest.3bcee9d01284ba6366cfc45649f77bfb.js"
 );
 
 workbox.clientsClaim();
