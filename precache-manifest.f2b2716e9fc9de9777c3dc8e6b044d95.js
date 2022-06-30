@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1b4e82ace30a08ee3528",
-    "url": "/merlingroupworld/static/css/main.dbddf773.chunk.css"
+    "revision": "6148314a2f4bfec51467",
+    "url": "/merlingroupworld/static/css/main.ff2f173a.chunk.css"
   },
   {
-    "revision": "1b4e82ace30a08ee3528",
-    "url": "/merlingroupworld/static/js/main.1b4e82ac.chunk.js"
+    "revision": "6148314a2f4bfec51467",
+    "url": "/merlingroupworld/static/js/main.6148314a.chunk.js"
   },
   {
     "revision": "93857b761cf9e5184f6f",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/merlingroupworld/static/media/IMG_4865.1fe19d50.jpg"
   },
   {
-    "revision": "eac0cfabe71291569406b7b39b523c0b",
+    "revision": "9e898ec39ca9221e13a3b9f26cb6c897",
     "url": "/merlingroupworld/index.html"
   }
 ];
