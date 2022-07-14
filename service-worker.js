@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/merlingroupworld/precache-manifest.b40968083d19ef1b2724c55d820e7fd2.js"
+  "/themerlingroupworld.com/precache-manifest.bc7365511dd09c2335b018fa82020628.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/merlingroupworld/index.html", {
+workbox.routing.registerNavigationRoute("/themerlingroupworld.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
