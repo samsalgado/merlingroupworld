@@ -179,8 +179,7 @@
 .help {
   text-align: center;
   position: relative;
-  right: -90px;
-  display: block;
+  display:block;
 }
 .pow {
   size:30px;
