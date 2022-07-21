@@ -45,6 +45,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.btc-code {
+  height: 25vmin;
+  width: webkit-fit-content;
+}
+.lnd-code {
+  height: 20vim;
+  width: 220px;
+}
 .App-header {
   background-color: white;
   min-height: 100vh;
@@ -176,6 +184,22 @@
   height: 10vmin;
   
 }
+.ss {
+  text-align: center;
+  position:static;
+}
+.center {
+  text-align: center;
+  left: 560px;
+  display: block;
+  position: relative;
+  font-weight: bolder;
+  font-size: xx-large;
+
+
+  
+}
+
 .help {
   text-align: center;
   position: relative;

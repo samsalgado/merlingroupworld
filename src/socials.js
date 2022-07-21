@@ -2,6 +2,7 @@ import React from 'react'
 import Github from './images/git.png';
 import Twitter from './images/tweet.png';
 import Linkedin from './images/ln.png';
+import BasicModal from './components/basicModal';
 const Socials = () => {
   return (
     <div className='socials'>
@@ -17,6 +18,8 @@ const Socials = () => {
             <img src={Github} alt="" width="100px" className='lnk-img' />
         </a>
       </div>  
+       <div className='center'><BasicModal />
+       </div> 
     </div>
   )
 }

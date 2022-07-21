@@ -7,6 +7,7 @@ import Socials from './socials';
 import Story from './story';
 import img from './images/IMG_4865.jpg'
 import "bootstrap/dist/css/bootstrap.min.css"
+
 function App() {
 
   return (
@@ -31,7 +32,6 @@ function App() {
 
         
         <Socials />
-
         <Story />
 
 
