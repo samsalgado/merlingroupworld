@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "b17e1034174fb5cc4362",
-    "url": "/static/css/main.2065f2ba.chunk.css"
+    "revision": "897f110cd2660044237d",
+    "url": "/static/css/main.c4649c77.chunk.css"
   },
   {
-    "revision": "b17e1034174fb5cc4362",
-    "url": "/static/js/main.f886956b.chunk.js"
+    "revision": "897f110cd2660044237d",
+    "url": "/static/js/main.029ec6fb.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "38c0a28f11a0771bdbe4",
+    "revision": "1856ad7f0142a48912fa",
     "url": "/static/css/2.d9158a14.chunk.css"
   },
   {
-    "revision": "38c0a28f11a0771bdbe4",
-    "url": "/static/js/2.59dd5035.chunk.js"
+    "revision": "1856ad7f0142a48912fa",
+    "url": "/static/js/2.c80e6cd9.chunk.js"
   },
   {
     "revision": "1d92124b66a0dced719b132d1d402d0f",
@@ -60,6 +60,14 @@ self.__precacheManifest = [
     "url": "/static/media/tweet.2c2a832f.png"
   },
   {
+    "revision": "4da32abfca72c5985f07fb617ce60d7a",
+    "url": "/static/media/LightningQR.4da32abf.jpeg"
+  },
+  {
+    "revision": "3e68999ff6aa86b4c279503b8e7c279f",
+    "url": "/static/media/BTC-Code.3e68999f.jpeg"
+  },
+  {
     "revision": "268a2268968486b0fdf045e557ce52ab",
     "url": "/static/media/decentralized.268a2268.jpg"
   },
@@ -68,7 +76,7 @@ self.__precacheManifest = [
     "url": "/static/media/IMG_4865.1fe19d50.jpg"
   },
   {
-    "revision": "55e65747ca08523b5abf9f18f3494d75",
+    "revision": "5a7e083c06a99a673a5a5761e4612853",
     "url": "/index.html"
   }
 ];
