@@ -16,6 +16,7 @@ const Us = () => {
         allowFullScreen
         title='video'
             ></iframe>
+            
       <img src={us} className="benefits-img" alt="pic" />
 
     </div>

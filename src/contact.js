@@ -7,6 +7,7 @@ function Contact () {
     <div className='form-modal'>
     <CookiesProvider>
     <CustomizedDialogs>
+        
         <Registration />
     </CustomizedDialogs>
     </CookiesProvider>
