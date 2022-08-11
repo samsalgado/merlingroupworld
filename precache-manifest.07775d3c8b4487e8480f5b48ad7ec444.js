@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "d12ce9a3baae56b679f3",
+    "revision": "3cb6107844d54b8df66c",
     "url": "/static/css/main.c4649c77.chunk.css"
   },
   {
-    "revision": "d12ce9a3baae56b679f3",
-    "url": "/static/js/main.931d97fc.chunk.js"
+    "revision": "3cb6107844d54b8df66c",
+    "url": "/static/js/main.38bc6228.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
   },
   {
-    "revision": "aa62a2c4e5dbaf2b1629",
+    "revision": "3d73b3bd094c37e6cd90",
     "url": "/static/css/2.d9158a14.chunk.css"
   },
   {
-    "revision": "aa62a2c4e5dbaf2b1629",
-    "url": "/static/js/2.2cace4f6.chunk.js"
+    "revision": "3d73b3bd094c37e6cd90",
+    "url": "/static/js/2.9aa4976a.chunk.js"
   },
   {
     "revision": "1d92124b66a0dced719b132d1d402d0f",
@@ -52,18 +52,6 @@ self.__precacheManifest = [
     "url": "/static/media/us.0593754a.png"
   },
   {
-    "revision": "2c2a832f916955b23d5c72736739bc1c",
-    "url": "/static/media/tweet.2c2a832f.png"
-  },
-  {
-    "revision": "4da32abfca72c5985f07fb617ce60d7a",
-    "url": "/static/media/LightningQR.4da32abf.jpeg"
-  },
-  {
-    "revision": "3e68999ff6aa86b4c279503b8e7c279f",
-    "url": "/static/media/BTC-Code.3e68999f.jpeg"
-  },
-  {
     "revision": "268a2268968486b0fdf045e557ce52ab",
     "url": "/static/media/decentralized.268a2268.jpg"
   },
@@ -72,7 +60,7 @@ self.__precacheManifest = [
     "url": "/static/media/IMG_4865.1fe19d50.jpg"
   },
   {
-    "revision": "d23b9778b2bdbd57145eebb41085e4f7",
+    "revision": "8aa60043155ec76016e3959f24ea053c",
     "url": "/index.html"
   }
 ];
