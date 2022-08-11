@@ -3,7 +3,6 @@ import React from 'react';
 import Topbar from './topbar';
 import Elements from './elements';
 import Us from './us';
-import Socials from './socials';
 import Story from './story';
 import img from './images/IMG_4865.jpg'
 import "bootstrap/dist/css/bootstrap.min.css"
@@ -31,7 +30,6 @@ function App() {
       <footer className='footer'>
 
         
-        <Socials />
         <Story />
 
 
